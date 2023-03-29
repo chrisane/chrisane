@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=<iframe src="https://giphy.com/embed/2Wg8MvTPT87YoFZKOJ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girlswhocode-computer-2Wg8MvTPT87YoFZKOJ">via GIPHY</a></p> width="100"/>
+  <img src=<href="https://giphy.com/gifs/girlswhocode-computer-2Wg8MvTPT87YoFZKOJ" width="100"/>
 </div>
 
 ### Hi there 👋
