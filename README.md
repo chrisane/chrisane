@@ -1,4 +1,7 @@
-# Hi there 👋
+# Hello world!
+
+![](https://komarev.com/ghpvc/?username=chrisane)
+
 My name is Chantelle van Wyk and I am an aspiring computer science student with a love for frontend development.
 <br><br>
 I develop using:
